@@ -57,7 +57,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-private void Move()
+    private void Move()
     {
         // We shall apply movement to the game object here.
         if (mAnimator == null) return;
